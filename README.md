@@ -4,51 +4,32 @@ intinya sistem inventaris.
 
 ---
 
-## 📑 Daftar Isi
+## Daftar Isi
 - [Fitur Utama](#-fitur-utama)
 - [Prasyarat](#-prasyarat)
-- [Instalasi](#-instalasi)
 - [Penggunaan](#-penggunaan)
 - [Tangkapan Layar](#-tangkapan-layar)
 - [Kontribusi](#-kontribusi)
 - [Lisensi](#-lisensi)
 
-## ✨ Fitur Utama
-- ✅ **Fitur 1:** Penjelasan singkat tentang apa yang bisa dilakukan fitur ini.
-- ✅ **Fitur 2:** Penjelasan singkat tentang fitur unggulan lainnya.
-- ✅ **Fitur 3:** Sistem responsif, keamanan ekstra, dll.
+## Fitur Utama
+- ✅ **Fitur 1:** Create File Data Inventaris.
+- ✅ **Fitur 2:** Menambahkan Data Barang.
+- ✅ **Fitur 3:** Mencari Data Barang.
+- ✅ **Fitur 4:** Mengupdate Data Barang.
+- ✅ **Fitur 5:** Menghapus Data Barang.
+- ✅ **Fitur 6 (COMING SOON):** Transaksi.
 
-## 🛠 Prasyarat
-Pastikan perangkat lunak berikut sudah terinstal di komputermu sebelum memulai:
-- [Node.js](https://nodejs.org/) (versi 14.x atau lebih baru) *<-- Sesuaikan dengan kebutuhan proyekmu*
-- [Python 3.x](https://www.python.org/) *<-- Hapus jika tidak perlu*
+## Bahasa yang digunakan
+100% C++
 
-## 🚀 Penggunaan
+## Anggota
+1. HAYDEN PUTRA PRADANA M - 252410103040
+2. VEDA BASTIAN AR RAMZY - 252410103037
+3. ALTHA LINGGA LEKSONO - 252410103068
+4. DAVA JULIAN EKA PUTRA - 252410103074
 
-Jelaskan instruksi tentang cara menjalankan atau menggunakan aplikasi. Berikan contoh kode jika memungkinkan.
 
-```bash
-npm run start  # Perintah untuk menjalankan proyek
-```
-
-## 📸 Tangkapan Layar
-*(Hapus bagian ini jika tidak ada gambar)*  
-Berikan gambaran visual kepada pengguna mengenai bentuk aplikasimu.
-
-![Preview Aplikasi](https://via.placeholder.com/800x400?text=Screenshot+Aplikasi+Kamu+Di+Sini)
-
-## 🤝 Kontribusi
-
-Kontribusi dari siapa saja sangat diterima! Jika kamu ingin membantu mengembangkan proyek ini, silakan ikuti langkah-langkah berikut:
-
-1. *Fork* repositori ini
-2. Buat *branch* untuk fitur baru (`git checkout -b fitur/FiturKeren`)
-3. *Commit* perubahanmu (`git commit -m 'Menambahkan FiturKeren'`)
-4. *Push* ke *branch* tersebut (`git push origin fitur/FiturKeren`)
-5. Buka *Pull Request* baru
-
-## 📄 Lisensi
-Didistribusikan di bawah lisensi MIT. Lihat file `LICENSE` untuk informasi lebih lanjut.
 
 ## 📬 Kontak
 Nama Kamu - [@TwitterKamu](https://twitter.com/username) - email@kamu.com
