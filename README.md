@@ -5,9 +5,9 @@ Intinya sistem inventaris.
 ---
 
 ## Daftar Isi
-- [Fitur Utama](#-fitur-utama)
-- [Bahasa](#-bahasa-yang-digunakan)
-- [Anggota](#-anggota)
+- [Fitur Utama](#fitur-utama)
+- [Bahasa](#bahasa-yang-digunakan)
+- [Anggota](#anggota)
 
 ---
 
