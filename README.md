@@ -1,16 +1,15 @@
 # SIJALAL : Sistem Inventaris Jallaludin
 
-intinya sistem inventaris.
+Intinya sistem inventaris.
 
 ---
 
 ## Daftar Isi
 - [Fitur Utama](#-fitur-utama)
-- [Prasyarat](#-prasyarat)
-- [Penggunaan](#-penggunaan)
-- [Tangkapan Layar](#-tangkapan-layar)
-- [Kontribusi](#-kontribusi)
-- [Lisensi](#-lisensi)
+- [Bahasa](#-bahasa-yang-digunakan)
+- [Anggota](#-anggota)
+
+---
 
 ## Fitur Utama
 - ✅ **Fitur 1:** Create File Data Inventaris.
@@ -20,8 +19,12 @@ intinya sistem inventaris.
 - ✅ **Fitur 5:** Menghapus Data Barang.
 - ✅ **Fitur 6 (COMING SOON):** Transaksi.
 
+---
+
 ## Bahasa yang digunakan
 100% C++
+
+---
 
 ## Anggota
 1. HAYDEN PUTRA PRADANA M - 252410103040
@@ -29,9 +32,4 @@ intinya sistem inventaris.
 3. ALTHA LINGGA LEKSONO - 252410103068
 4. DAVA JULIAN EKA PUTRA - 252410103074
 
-
-
-## 📬 Kontak
-Nama Kamu - [@TwitterKamu](https://twitter.com/username) - email@kamu.com
-
-Tautan Proyek: [https://github.com/username-kamu/nama-proyek](https://github.com/username-kamu/nama-proyek)
+---
